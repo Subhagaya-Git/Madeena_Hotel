@@ -48,6 +48,7 @@ Madeena-Hotel/
 ├── booking.html         # Room booking page
 └── README.md            # You're here!
 
+
 🚀 How to Get Started
 *Clone this repository:
 git clone https://github.com/Subhagaya-Git/Madeena_Hotel.git
